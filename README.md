@@ -24,4 +24,6 @@ Launch the development server using:npm run dev
 5. **Open the Application**  
 Open your web browser and navigate to:http://localhost:5173/
 
+### The docker container is also given it can be used instead
+
 You can now interact with the TODO app!
